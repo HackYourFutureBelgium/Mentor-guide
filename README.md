@@ -1,25 +1,25 @@
-# Welcome to Teacher Training at HackYourFuture - Copenhagen
+# Mentors guide
 
-## The Challenge
+Welcome HackYourFuture mentor!
 
-At HackYourFuture we believe, as we have always done, that finding professional programmers to deliver our course best prepares our students for professional life by giving them the most up to date knowledge and helping them build a network of developers for when they graduate.
+## Do you know why you're a hero\(ine\)?
 
-The challenge lies in the fact that we are people who are passionate about teaching but have no formal background in it. We do well using the skills that we have but without some background in teaching we make mistakes both developing and delivering content. The result of this is our students receiving an education that while passionate and caring can miss out on some of the core education principles which would enable them to learn better and thus become developers easier.
+Because you can make the difference for our students teaching and guiding them to become junior webdevelopers. To be a good coach, you also need guidance, as our students do. That's why this Coaches Guidebook is here!
 
-These problems can manifest themselves in students not understanding key concepts, struggling with homework or becoming discouraged with the course.
+You can find all infos you'll need to become a great HackYourFuture Coach in it!
 
-## The Solution
+## Why join the HackYourFuture Community?
 
-In this website, you will find practical sessions that can be delivered to volunteers to teach them about pedagogy, teaching and coaching. 
+* You will contribute to improving the lives of others through tech education 🚀
+* You will become better expert of your own craft by teaching your knowledge 🤓
+* You will be exposed to different cultures and different ways of thinking & working 👐
+* You will become a part of HackYourFuture’s professional network 🌐
 
-Depending on the audience that you're teaching you may want to pick and choose the modules that you teach from his website. Some are better for new volunteers whilst others are targeted at experienced volunteers.
+## What do we stand for at HackYourFuture?
 
-This is a living document. Expect it to change and grow over time. If you'd like to suggest a module please speak to Chris Owen or open a Pull Request [here](https://github.com/CodeYourFuture/Teacher-Training).
-
-## Existing Resources
-
-* Teaching Tech Together
-  * [https://teachtogether.tech/](https://teachtogether.tech/)
-* Docs
-  * [https://docs.codeyourfuture.io](https://docs.codeyourfuture.io)
-
+* We speak the same language 💬.
+* We code on Sunday 🌤. We're adapted to refugees' and newcomers' realities, facing other challenges during the week.
+* We breathe openness 👐. We're fully open, according to the Open Knowledge philosophy.
+* We help you build your future, not your past 💪. We train refugees and disadvantaged newcomers. 
+* We are like a family 🧡. Our format is based on a grassroots community with volunteer coaches and mentors.
+* We advocate for diversity 🧕. We strongly encourage women to participate. 36% of our students are women.
