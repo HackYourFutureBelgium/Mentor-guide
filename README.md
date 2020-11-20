@@ -1,8 +1,8 @@
-# Welcome to Teacher Training at CodeYourFuture
+# Welcome to Teacher Training at HackYourFuture - Copenhagen
 
 ## The Challenge
 
-At CodeYourFuture we believe, as we have always done, that finding professional programmers to deliver our course best prepares our students for professional life by giving them the most up to date knowledge and helping them build a network of developers for when they graduate.
+At HackYourFuture we believe, as we have always done, that finding professional programmers to deliver our course best prepares our students for professional life by giving them the most up to date knowledge and helping them build a network of developers for when they graduate.
 
 The challenge lies in the fact that we are people who are passionate about teaching but have no formal background in it. We do well using the skills that we have but without some background in teaching we make mistakes both developing and delivering content. The result of this is our students receiving an education that while passionate and caring can miss out on some of the core education principles which would enable them to learn better and thus become developers easier.
 
@@ -20,8 +20,6 @@ This is a living document. Expect it to change and grow over time. If you'd like
 
 * Teaching Tech Together
   * [https://teachtogether.tech/](https://teachtogether.tech/)
-* Syllabus
-  * [https://syllabus.codeyourfuture.io](https://syllabus.codeyourfuture.io)
 * Docs
   * [https://docs.codeyourfuture.io](https://docs.codeyourfuture.io)
 
