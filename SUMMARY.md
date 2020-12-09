@@ -1,6 +1,7 @@
 # Table of contents
 
 - [Welcome to Teacher Training at CodeYourFuture](README.md)
+- [Getting started](getting-started.md)
 
 ## Roles
 
@@ -11,7 +12,3 @@
 ## Tasks
 
 - [Marking Coursework](tasks/marking-coursework.md)
-
-## Content
-
-- [Getting started](getting-started.md)
