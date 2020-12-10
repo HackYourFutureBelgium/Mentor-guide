@@ -41,3 +41,11 @@ At the end of the 7 modules we start a `final project` which is the most importa
 - We divided everyone in our organization into teams, we have a teachers team, a team for every class etc. which all have different permissions.
 - We have a private repository where fellow teachers share their [teaching-tips-and-tricks](https://github.com/HackYourFuture/teaching_tips_tricks), if you are new to teaching or are just curious on what they think works well in class, take a look.
 - If you are teaching a certain module and would like to make changes on the contents of the repo, please create a branch with your name and your fellow teacher, like: `yourname_othername`. Our master branches are protected, if you would like to change something to the default module please make a PR.
+
+### Roles
+
+Now dependent on the role please check the role you will be:
+
+- [Lead teacher](roles/lead-teacher.md)
+- [Teacher assistant](roles/teaching-assistant.md)
+- [Homework helper](roles/homework-helper.md)
