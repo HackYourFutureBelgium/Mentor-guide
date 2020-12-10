@@ -1,5 +1,7 @@
 # Getting started
 
+First please fill in your preferences for teaching (in the Preferences and Skills tab) [here](https://docs.google.com/spreadsheets/d/1bvagz2DZkV44Hb5a0eATC7tip34o_F496FKVzzmjQGU/edit?usp=sharing)
+
 ### Most crucial learning goals
 
 We want our students to be able to work in a tech company in Denmark. Technical skills are important, but just as much is an understanding of what the job of a web-developer looks like. Collaboration, teamwork, an inquisitive mindset and **asking tons of questions** are crucial "soft" learnings that we want to encourage _over and over_. Relating what you teach in class to your daily tasks at work is also _always_ super useful.
@@ -39,12 +41,3 @@ At the end of the 7 modules we start a `final project` which is the most importa
 - We divided everyone in our organization into teams, we have a teachers team, a team for every class etc. which all have different permissions.
 - We have a private repository where fellow teachers share their [teaching-tips-and-tricks](https://github.com/HackYourFuture/teaching_tips_tricks), if you are new to teaching or are just curious on what they think works well in class, take a look.
 - If you are teaching a certain module and would like to make changes on the contents of the repo, please create a branch with your name and your fellow teacher, like: `yourname_othername`. Our master branches are protected, if you would like to change something to the default module please make a PR.
-
-### Step-by-step guide for teaching
-
-A thorough description of how to get started with teaching can be found here: [Teacher's Guide](https://github.com/HackYourFuture-CPH/teaching-instructions). If you don't have access to this, please join the HackYourFuture CPH organisation or :arrow_right: :👨‍💻:
-
-**Any other questions?**:arrow_right: :👨‍💻:
-
-Have you checked out the [Teacher Timeline sheet](https://docs.google.com/spreadsheets/d/1uYSzLetZxhIUIlpk0Si3KgQ9I1-yniif37-Te_7X4j8/edit?usp=sharing) in the channel description of #mentorroom? <p>
-Aaaand have you filled out the [Mentor Skill sheet](https://docs.google.com/spreadsheets/d/1bvagz2DZkV44Hb5a0eATC7tip34o_F496FKVzzmjQGU/edit?usp=sharing)? (This helps us keep an overview of who is comfortable teaching what - and what your extra skills are.)

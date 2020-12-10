@@ -46,17 +46,17 @@ The assistant teacher’s role is the role of the mentor. You are tasked with wo
 ### Classroom Rules
 
 1. ​Follow the Code of Conduct
-   * You should report any violations to the Personal Development team
+   - You should report any violations to the Personal Development team
 2. Don't touch the keyboard.
-   * Unless you're 100% certain that whatever your doing is outside of the students required understanding
-3. Be empathetic. 
-   * Our students come from many different cultures, have many different levels of English, have different levels of computer literacy, have many different employment statuses
-4. Don't demotivate. 
-   * It can be easy to demotivate students using dismissive language \(e.g. "it’s easy, just do this"\)
+   - Unless you're 100% certain that whatever your doing is outside of the students required understanding
+3. Be empathetic.
+   - Our students come from many different cultures, have many different levels of English, have different levels of computer literacy, have many different employment statuses
+4. Don't demotivate.
+   - It can be easy to demotivate students using dismissive language \(e.g. "it’s easy, just do this"\)
 5. Be patient.
-   * Everything takes time and they will get there in the end
+   - Everything takes time and they will get there in the end
 6. Remember you are an expert.
-   * Be aware of your blind spots when working with beginners
+   - Be aware of your blind spots when working with beginners
 
 ### Tips
 
@@ -74,7 +74,6 @@ When mentoring a student you should always have the homework for the week in min
 
 ### Useful Links
 
-| Documentation | More Teacher Training | Syllabus |
-| :--- | :--- | :--- |
+| Documentation                                             | More Teacher Training                                                           | Syllabus                                                          |
+| :-------------------------------------------------------- | :------------------------------------------------------------------------------ | :---------------------------------------------------------------- |
 | [docs.codeyourfuture.io](https://docs.codeyourfuture.io/) | [teachertraining.codeyourfuture.io](https://teachertraining.codeyourfuture.io/) | [syllabus.codeyourfuture.io](https://syllabus.codeyourfuture.io/) |
-
