@@ -1,89 +1,28 @@
----
-description: >-
-  One of the best ways that new teachers can help our students is by offering
-  mentoring to small groups. This document outlines the training needed to help
-  our students effectively.
----
+# Homework helper
 
-# Training
+All our students hand in homework every week. In order for the students to improve all homeworks gets a review. This review can really help the students improve their skills.
 
-## What is a Homework Mentor?
+## Responsibility
 
-## Training
+As a homework helper it is your responsibility to review homework. It is also your responsibility that all the homework gets reviewed. It is not you that has to do all the reviewing, but you have the responsibility do review all homeworks. Normally the homework helper gets help from the teacher assistant and sometimes also the main teacher.
 
-### Why do we mentor? \(5 minutes\)
+## How students hand in homework
 
-_If the group is smaller than six people_
+The students hand in homework using pull requests. The process goes like this:
 
-As a form of icebreaker and a way to get to know each other have everybody introduce themselves and say:
+1. The students create a pull request (PR) on their `hyf-homework` repo, fx https://github.com/panivita/hyf-homework
+2. The PR now needs to be reviewed by a mentor
+3. When the review has been received the students need to make changes based on the feedback
+4. When changes has been made they can merge their PR and they are now fully done with their homework
 
-* Their name 
-* Where they're from
-* What they do
-* Why they want to mentor or why they see the importance in mentoring
+There is a [video here](https://www.youtube.com/watch?v=XYlgh9hSWtw) that explains and shows how it works. There is an extra step which is that the students also need to review another class members homework.
 
-The aim of this discussion is to explore the reasons that people are volunteering with us. 
+## Homework assesment tool
 
-_If the group is larger than six people_
+To keep track of the homeworks and their status (mentioned above) we have made a tool that makes this process easier: https://hyf-homework-assesment.herokuapp.com/
 
-Split the group into smaller groups of 3 or 4 people, then complete the above exercise
+Here you can select the class number you are responsible for (fx class 17), then choose the module (fx nodejs) and then the status (needs mentor feedback is the one you will be using). Then you have an overview of all the students that still need feedback for a specific module. Then you can just go to their PR and give feedback there. The website updates the student homework status by itself. In the bottom of the website there is a description for the different statuses
 
-### What is our commitment to you? \(5 minutes\)
+## Communication with HYF or lead teacher
 
-We commit to have students who are engaged, willing to learn, inquisitive, respectful and looking to change their lives through hard work. 
-
-We endeavour to work to the mantra 
-
-> Never teach alone
-
-This means that whilst you may physically be alone with our students we will support you with online support in our Slack channel and teaching material to help our students. If you ever struggle or have problems teaching our students we are here to support you.
-
-Finally, we want to give back to them by providing teaching lessons and a community of people who are committed to real change. 
-
-### Course Details \(5 minutes\)
-
-### Setup \(5 minutes\)
-
-#### Slack
-
-You should gather all of the attendees emails and invite them to the slack channel [_\#cyf-homework-mentors_.](https://app.slack.com/client/T2H71EFLK/C010MDVT37G)
-
-**It is important you invite them as Single-Channel Guests so we don't hit our member limit.** You can invite them as Single-Channel Guests from here:
-
-![](../../.gitbook/assets/image%20%281%29.png)
-
-Then click here:
-
-![](../../.gitbook/assets/image.png)
-
-#### Sign Up Sheet
-
-Introduce the volunteers to the sign up sheet here:
-
-{% embed url="https://docs.google.com/spreadsheets/d/1f\_RRJ35NsWmhUx6-fFDQSAtiSxmAMw3JRb8yrVu11eM/edit\#gid=0" %}
-
-This sheet is used to coordinate the volunteers and students so they can arrange their sessions. 
-
-### How To Be a Good Mentor \(10 minutes\)
-
-
-
-### Role Play \(10 minutes\)
-
-
-
-### Questions \(10 minutes\)
-
-Leave some time for questions at the end.
-
-Please record these questions in the section below _Frequently Asked Questions_. You should be able to edit this file directly in Github.
-
-### Wrap-up \(5 minutes\)
-
-* Share this document with the attendees so they can look over the notes
-* Encourage them to read the rest of the content on this website
-* Encourage them to explore the content on [docs.codeyourfuture.io](https://docs.codeyourfuture.io)
-* Ask them to sign up to a time over the next week that they would like this mentor a student
-
-## Frequently Asked Questions
-
+I quite important that you communicate with us. That could be if you get busy or something comes up. If you communicate with us then we can find another helper or get the other teachers to help :)
