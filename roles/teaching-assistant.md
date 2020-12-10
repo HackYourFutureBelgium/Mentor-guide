@@ -1,6 +1,10 @@
 # Role
 
-The assistant teacher’s role is the role of the mentor. You are tasked with working closely with small groups or individual students to guide them through the lessons content. You should motivate when the student is feeling down, explain when the student is not comprehending and encourage the student to be inquisitive. You will be working more closely with our students than anyone else in the organisation and so you are a crucial part of the relationship we have with them.
+The teacher assistants role it to help the main teacher get through the class as smooth as possible. That means Primarily helping students when exercises are given. But it can also mean teaching some topics, coming with another perspective in class, keeping the main teacher focused on the learning goals.
+
+Another important part is helping with reviewing homework.
+
+Remember to talk to the main teacher about how you should be assisting the class. Should you fx. help teach some topics, is it okay if the you interrupt the main teacher, etc.
 
 <table>
   <thead>
@@ -60,10 +64,6 @@ The assistant teacher’s role is the role of the mentor. You are tasked with wo
 
 ### Tips
 
-_Don’t touch the keyboard_
-
-Wherever possible direct the student to actually type the solution on their laptop rather than taking control. When you take a students laptop it disempowers and demotivates them and makes them less likely to experiment with solutions.
-
 _Ask don’t tell_
 
 As an assistant teacher, your job is not to understand **what** the student doesn’t understand but **why** they don’t understand it. You are in the lucky position of working closely with the students and so are uniquely placed to fix core misunderstandings in their mental models. The most important question in your arsenal is “_What do you think the answer is?_”.
@@ -71,9 +71,3 @@ As an assistant teacher, your job is not to understand **what** the student does
 _Homework in mind_
 
 When mentoring a student you should always have the homework for the week in mind. You should be helping them to understand concepts well enough so that you can confidently say that they will be able to complete the homework to a sufficient level. If you don’t know the homework for the week, ask your Lead Teacher.
-
-### Useful Links
-
-| Documentation                                             | More Teacher Training                                                           | Syllabus                                                          |
-| :-------------------------------------------------------- | :------------------------------------------------------------------------------ | :---------------------------------------------------------------- |
-| [docs.codeyourfuture.io](https://docs.codeyourfuture.io/) | [teachertraining.codeyourfuture.io](https://teachertraining.codeyourfuture.io/) | [syllabus.codeyourfuture.io](https://syllabus.codeyourfuture.io/) |

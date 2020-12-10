@@ -74,16 +74,17 @@ Here are some things we learned from having all classes online:
 - In BBB you can raise your hand. Use that to figure out if people are following or if people have questions
 
 **Recording of sessions.** <br>
-We do screen recordings of all sessions for students who cannot attend or want to revisit parts of the session later. We use a software called OBS [here](https://obsproject.com/) for this. You can send the video files to Christopher after class and he will take care of uploading and posting it on Slack, but you can also upload them on your own channel (and we will just add them to a playlist). You can also use whatever other programs you prefer for screen recording - just keep the file size in mind so we don't need to compress too much. For OBS [this](https://photography.tutsplus.com/tutorials/obs-for-screen-recording-video-and-output-settings--cms-28542) is a recommended preset. You can see an example of a recorded session [here](https://www.youtube.com/edit?o=U&video_id=72CMjs61vIw).
+
+In BigBlueButton remember to record the session and post the recorded video on the class slack channel.
 
 **Talk with your teacher assistant** <br>
-Before class try and talk to your teacher assistant about how you want to work together. Should the teacher assistant fx. help teach some topics, is it okay if the teacher assistant interupts, etc.
+Before class try and talk to your teacher assistant about how you want to work together. Should the teacher assistant fx. help teach some topics, is it okay if the teacher assistant interrupts, etc.
 
 **Homework status** <br>
 To get an overview of how the class is doing. Use the homework checker to make a bit of an overview of how the class is doing. With an overview you can teach more targeted towards clearing out misconceptions in the class.
 
 **Breaks** <br>
-We take a long break around 14:00, to have lunch. (About 20 minutes). Otherwise, make sure to rememember to take short breaks about every 45 minutes as it is a lot to take in for students and concentration will understandably drop if we don't take breaks.
+We take a long break around 14:00, to have lunch. (About 20 minutes). Otherwise, make sure to remember to take short breaks about every 45 minutes as it is a lot to take in for students and concentration will understandably drop if we don't take breaks.
 
 **Don't forget about the fun** <br>
 If you have an idea about how to combine the teaching with some more fun exercises - do it. Our curriculum is challenging and sometimes dry (it has to be), but that doesn't mean we can't take some digressions to have some fun and get the energy levels in the class up. Mitigating 'code scare' or demystifying the world of programming can be super important, especially in the start. <p>
