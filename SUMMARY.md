@@ -1,6 +1,6 @@
 # Table of contents
 
-- [Welcome to Teacher Training at CodeYourFuture](README.md)
+- [Welcome to HackYourFuture - Copenhagen](README.md)
 - [Getting started](getting-started.md)
 
 ## Roles
