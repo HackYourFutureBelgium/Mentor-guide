@@ -4,7 +4,7 @@ All our students hand in homework every week. In order for the students to impro
 
 ## Responsibility
 
-As a homework helper it is your responsibility to review homework. It is also your responsibility that all the homework gets reviewed. It is not you that has to do all the reviewing, but you have the responsibility do review all homeworks. Normally the homework helper gets help from the teacher assistant and sometimes also the main teacher.
+As a homework helper it is your responsibility to review homework. It is also your responsibility that all the homework gets reviewed! It is not you that has to do all the reviewing, but you have the responsibility do review all homeworks. Normally the homework helper gets help from the teacher assistant and sometimes also the main teacher or maybe someone from alumni.
 
 ## How students hand in homework
 
@@ -25,7 +25,7 @@ Here you can select the class number you are responsible for (fx class 17), then
 
 ## Communication with HYF or lead teacher
 
-I quite important that you communicate with us. That could be if you get busy or something comes up. If you communicate with us then we can find another helper or get the other teachers to help :)
+It's quite important that you communicate with us. That could be if you get busy or something comes up. If you communicate with us then we can find another helper or get the other teachers to help :)
 
 ## Giving feedback
 

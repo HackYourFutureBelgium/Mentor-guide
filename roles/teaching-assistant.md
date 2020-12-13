@@ -6,6 +6,10 @@ Another important part is helping with reviewing homework.
 
 Remember to talk to the main teacher about how you should be assisting the class. Should you fx. help teach some topics, is it okay if the you interrupt the main teacher, etc.
 
+## Responsibility
+
+Your responsibility is to help/assist the main teacher so he is not overloaded with work.
+
 <table>
   <thead>
     <tr>
