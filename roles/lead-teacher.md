@@ -78,7 +78,6 @@ Here are some things we learned from having all classes online:
 - In BBB you can raise your hand. Use that to figure out if people are following or if people have questions
 
 **Recording of sessions.** <br>
-
 In BigBlueButton remember to record the session and post the recorded video on the class slack channel.
 
 **Talk with your teacher assistant** <br>
