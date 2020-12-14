@@ -41,7 +41,7 @@ As a mentor you book a specific module where you are responsible for the class i
 - We also have a nice and shiny overview of our [curriculum](https://github.com/HackYourFuture-CPH/curriculum). Here you can find information about when/how and what we teach.
 - We divided everyone in our organization into teams, we have a teachers team, a team for every class etc. which all have different permissions.
 - We have a private repository where fellow teachers share their [teaching-tips-and-tricks](https://github.com/HackYourFuture/teaching_tips_tricks), if you are new to teaching or are just curious on what they think works well in class, take a look.
-- If you are teaching a certain module and would like to make changes on the contents of the repo, please create a branch with your name and your fellow teacher, like: `yourname_othername`. Our master branches are protected, if you would like to change something to the default module please make a PR.
+- Please contribute and help improve the curriculum. Just make a Pull Request or write the curriculum responsible!
 
 ### Workshops/master classes
 
