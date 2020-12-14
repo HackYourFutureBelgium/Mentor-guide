@@ -29,10 +29,11 @@ Our Slack workplace is the main communication tool we use. It has channels for e
 
 ### So how is the curriculum structured?
 
-The curriculum is split into 7 `modules`. A module usually consists of 3-5 `weeks`, depending on the subject.<br>
-Displayed red below are the 4 "fundamental" modules - the first 12 weeks of the program. These are the hardest part for most students and require a lot of special attention.
-![Curriculum graphic + project](https://github.com/HackYourFuture-CPH/curriculum/blob/master/curriculum_2020.png)
-At the end of the 7 modules we start a `final project` which is the most important project our students will take away from our classes. The goal is to let students build a real-world app using the skills they acquired during the course. An example from `class07` can be seen [here](https://thefabricofmylife.herokuapp.com/) and [here](https://chattie-production.herokuapp.com/)
+Here is an overview of the curriculum
+
+![Curriculum graphic + project](https://raw.githubusercontent.com/HackYourFuture-CPH/curriculum/master/curriculum_2020.png)
+
+As a mentor you book a specific module where you are responsible for the class in that time.
 
 ### Modules
 
