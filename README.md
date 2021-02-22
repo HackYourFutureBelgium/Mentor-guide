@@ -4,7 +4,7 @@ Welcome HackYourFuture mentor!
 
 ## Do you know why you're a hero\(ine\)?
 
-Because you can make the difference for our students teaching and guiding them to become junior webdevelopers. To be a good coach, you also need guidance, as our students do. That's why this Mentor Guide is for!
+Because you can make the difference for our students teaching and guiding them to become junior webdevelopers. To be a good mentor, you also need guidance, as our students do. That's why this Mentor Guide is for!
 
 You can find all infos you'll need to become a great HackYourFuture mentor in it!
 
@@ -25,4 +25,4 @@ You can find all infos you'll need to become a great HackYourFuture mentor in it
 - We are like a family 🧡. Our format is based on a grassroots community with volunteer coaches and mentors.
 - We advocate for diversity 🧕. We strongly encourage women to participate. Over 50% of our students are women.
 
-Built upon CodeYourFuture's fantastic [mentor guide](https://teachertraining.codeyourfuture.io/)
+Built upon CodeYourFuture's fantastic [teacher guide](https://teachertraining.codeyourfuture.io/)
