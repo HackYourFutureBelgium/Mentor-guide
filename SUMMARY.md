@@ -1,6 +1,6 @@
 # Table of contents
 
-- [Welcome to HackYourFuture - Copenhagen](README.md)
+- [Welcome to HackYourFuture Denmark](README.md)
 - [Getting started](getting-started.md)
 
 ## Roles
