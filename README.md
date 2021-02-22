@@ -1,12 +1,12 @@
-# Mentors guide
+# Mentor Guide
 
 Welcome HackYourFuture mentor!
 
 ## Do you know why you're a hero\(ine\)?
 
-Because you can make the difference for our students teaching and guiding them to become junior webdevelopers. To be a good coach, you also need guidance, as our students do. That's why this Mentors Guide is for!
+Because you can make the difference for our students teaching and guiding them to become junior webdevelopers. To be a good coach, you also need guidance, as our students do. That's why this Mentor Guide is for!
 
-You can find all infos you'll need to become a great HackYourFuture Coach in it!
+You can find all infos you'll need to become a great HackYourFuture mentor in it!
 
 ## Why join the HackYourFuture Community?
 
