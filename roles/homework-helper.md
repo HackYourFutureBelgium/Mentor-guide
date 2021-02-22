@@ -1,10 +1,10 @@
 # Homework helper
 
-All our students hand in homework every week. In order for the students to improve all homeworks gets a review. This review can really help the students improve their skills.
+All our students hand in homework every week by using pull requests on GitHub. In order for the students to improve as much as possible we aim to review every pull request thoroughly. This review process imitates the real world and can really help the students to improve their skills significantly.
 
 ## Responsibility
 
-As a homework helper it is your responsibility to review homework. It is also your responsibility that all the homework gets reviewed! It is not you that has to do all the reviewing, but you have the responsibility do review all homeworks. Normally the homework helper gets help from the teacher assistant and sometimes also the main teacher or maybe someone from alumni.
+As a Homework Helper it is your responsibility to review homework. It is also your responsibility that all the homework gets reviewed! It is not you that has to do all the reviewing, but you have the responsibility to make sure all submitted homeworks get a review. Normally the Homework Helper gets help from the Teacher Assistant and sometimes also the Main Teacher. If you need additional hands - some of our alumni can help out too.
 
 ## How students hand in homework
 
@@ -15,7 +15,7 @@ The students hand in homework using pull requests. The process goes like this:
 3. When the review has been received the students need to make changes based on the feedback
 4. When changes has been made they can merge their PR and they are now fully done with their homework
 
-There is a [video here](https://www.youtube.com/watch?v=XYlgh9hSWtw) that explains and shows how it works. There is an extra step which is that the students also need to review another class members homework.
+There is a [video here](https://www.youtube.com/watch?v=XYlgh9hSWtw) that explains and shows how it works. There is an extra step which is that the students also need to review another class members homework (peer feedback).
 
 ## Homework assesment tool
 
@@ -23,9 +23,9 @@ To keep track of the homeworks and their status (mentioned above) we have made a
 
 Here you can select the class number you are responsible for (fx class 17), then choose the module (fx nodejs) and then the status (needs mentor feedback is the one you will be using). Then you have an overview of all the students that still need feedback for a specific module. Then you can just go to their PR and give feedback there. The website updates the student homework status by itself. In the bottom of the website there is a description for the different statuses
 
-## Communication with HYF or lead teacher
+## Communication with HYF or Lead Teacher
 
-It's quite important that you communicate with us. That could be if you get busy or something comes up. If you communicate with us then we can find another helper or get the other teachers to help :)
+It's quite important that you communicate with us. That could be if you get busy or something comes up. If you communicate with us then we can find another helper or get the other teachers to help :) Everyone gets busy sometimes, but it's really important that all students can get feedback in good time.
 
 ## Giving feedback
 
@@ -35,7 +35,7 @@ Try to keep the review at maximum 3 points the students can work on. There is no
 
 ## Giving an overview of general misconceptions
 
-It can be super helpful for the lead teacher to get an over of how the class is doing with the homework. So if you notice things the class in general is struggling with the make an overview of those misconceptions
+It can be super helpful for the Lead Teacher to get an overview of how the class is doing with the homework. So if you notice things that the class is collectively getting wrong - then make an overview of those misconceptions so they can be addressed in the next session.
 
 Here is an example of a homework helpers overview of the class:
 
