@@ -1,6 +1,6 @@
 # Role
 
-The teacher assistants role it to help the main teacher get through the class as smooth as possible. That means Primarily helping students when exercises are given. But it can also mean teaching some topics, coming with another perspective in class, keeping the main teacher focused on the learning goals.
+The teacher assistants role it to help the main teacher get through the class as smooth as possible. That means primarily helping students when exercises are given. But it can also mean teaching some topics, coming with another perspective in class, keeping the main teacher focused on the learning goals.
 
 Another important part is helping with reviewing homework.
 
@@ -8,7 +8,7 @@ Remember to talk to the main teacher about how you should be assisting the class
 
 ## Responsibility
 
-Your responsibility is to help/assist the main teacher so he is not overloaded with work.
+Your responsibility is to help/assist the main teacher so they are not overloaded with work.
 
 <table>
   <thead>
