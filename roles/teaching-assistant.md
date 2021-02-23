@@ -22,7 +22,7 @@ Your responsibility is to help/assist the main teacher so he is not overloaded w
     <tr>
       <td style="text-align:left">
         <p>In our classrooms we often have a wide range of ability and so it is essential
-          that we mentor the students who are struggling so they don&#x2019;t fall
+          that we mentor the students who are struggling so they don't fall
           behind.</p>
         <p>Take the time not only to teach but also to motivate and connect with
           the student. Many of our students may never have met a programmer before
@@ -40,11 +40,11 @@ Your responsibility is to help/assist the main teacher so he is not overloaded w
       <td style="text-align:left">
         <p>As a teaching assistant you are uniquely placed to give active feedback
           to your lead teacher. Never be afraid to ask the teacher to explain again
-          if you think the students don&#x2019;t understand a topic or to offer extra
+          if you think the students don't understand a topic or to offer extra
           clarification. Wherever possible, feedback to the teacher on how the students
-          you&#x2019;re interacting with are doing.</p>
+          you're interacting with are doing.</p>
         <p>Additionally, we encourage feedback on the lesson itself. We try to foster
-          a community of growth and education for everyone at CodeYourFuture - not
+          a community of growth and education for everyone at HackYourFuture - not
           just our students.</p>
       </td>
     </tr>
@@ -53,8 +53,8 @@ Your responsibility is to help/assist the main teacher so he is not overloaded w
 
 ### Classroom Rules
 
-1. ​Follow the Code of Conduct
-   - You should report any violations to the Personal Development team
+1. ​Follow the [Code of Conduct](https://github.com/HackYourFuture-CPH/curriculum/blob/master/code-of-conduct.pdf)
+   - You should report any violations to the staff
 2. Don't touch the keyboard.
    - Unless you're 100% certain that whatever your doing is outside of the students required understanding
 3. Be empathetic.
