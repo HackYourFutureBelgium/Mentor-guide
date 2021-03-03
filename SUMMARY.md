@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to HackYourFuture Denmark](README.md)
+* [Mentor's guide](README.md)
 * [Getting started](getting-started.md)
 
 ## Roles

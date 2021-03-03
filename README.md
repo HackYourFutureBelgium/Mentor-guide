@@ -1,15 +1,8 @@
----
-description: >-
-  We really appreciate that you're interested in being part of our community. In
-  this guide we want to give you an overview of the different volunteer
-  positions available and how to get started.
----
-
-# Welcome to HackYourFuture Denmark
+# Mentor's guide
 
 ![Classroom at HackYourFuture in Copenhagen](.gitbook/assets/mentor-guide-banner.png)
 
-By volunteering you contribute to our main goal: help students gain the necessary skills to find a job as a programmer. HackYourFuture has now helped over 250 students across the EU to find work as a programmer. This is only possible with the support of you: **our volunteers**.
+**Welcome to HackYourFuture**. We really appreciate that you're interested in being part of our community. In this guide we want to give you an overview of the different volunteer positions available and how to get started. By volunteering you contribute to our main goal: help students gain the necessary skills to find a job as a programmer. HackYourFuture has now helped over 250 students across the EU to find work as a programmer. This is only possible with the support of you: **our volunteers**.
 
 ## Do you know why you're a hero\(ine\)?
 
