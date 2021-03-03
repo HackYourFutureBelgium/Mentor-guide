@@ -6,8 +6,8 @@ The teacher’s role is the role of the director. You are tasked with taking con
 
 Your responsibility as a lead teacher is to teach the learning goals for each week and make sure that as many of the students learn the learning goals.
 
-| Coordinate                                                                                                                                                                                                                                                                                        | Plan                                                                                                                                                                                                                                                                                                                                                                                                                                      | Teach                                                                                                                                                                                                                                                                            |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Coordinate | Plan | Teach |
+| :--- | :--- | :--- |
 | Your primary role as a Lead Teacher is to coordinate and control the classroom. It is your job to guide the students and teaching assistants through the lesson plan and understand when people need more time or more guidance. Use your teaching assistants to help guide you in these efforts. | Before each lesson, you should organise with your other teachers what and how you are planning on delivering the content. It is so important that you - and the rest of the people you’re leading with - thoroughly understand the content being taught and are prepared to deliver it to the class. Before each lesson you should understand the schedule for the day, when each exercise will be taught and how they will be delivered. | Teaching should always take the smallest amount of your time as you should move to examples as soon as you feel the students are ready. Where possible you should practice Active Teaching which means that you are responsive to the students' questions and misunderstandings. |
 
 ### Jobs in Class
@@ -61,7 +61,7 @@ The class can overall be run in two different ways:
 
 It's up to you what approach you want to use. But we would like to encourage using flipped classroom. As students have said they prefer this way of learning.
 
-The same goes for experiential learning (hands-on work) and peer-assisted learning (students helping one another). This has also shown to work well for our students. In practice this means that we try to use as few powerpoint slides as possible (ideally none) and focus on Live coding examples, group exercises and anything else that keeps people's hands on their keyboards and makes them apply their skills and practice them.
+The same goes for experiential learning \(hands-on work\) and peer-assisted learning \(students helping one another\). This has also shown to work well for our students. In practice this means that we try to use as few powerpoint slides as possible \(ideally none\) and focus on Live coding examples, group exercises and anything else that keeps people's hands on their keyboards and makes them apply their skills and practice them.
 
 ## Practicalities
 
@@ -74,24 +74,23 @@ We run the classes online in a tool called BigBlueButton. Signup here: bbb.hacky
 
 Here are some things we learned from having all classes online:
 
-- When you do exercises, make small groups of 3 people in breakout rooms
-- In BBB you can raise your hand. Use that to figure out if people are following or if people have questions
+* When you do exercises, make small groups of 3 people in breakout rooms
+* In BBB you can raise your hand. Use that to figure out if people are following or if people have questions
 
-**Recording of sessions.** <br>
-In BigBlueButton remember to record the session and post the recorded video on the class slack channel.
+**Recording of sessions.**   
+ In BigBlueButton remember to record the session and post the recorded video on the class slack channel.
 
-**Talk with your teacher assistant** <br>
-Before class try and talk to your teacher assistant about how you want to work together. Should the teacher assistant fx. help teach some topics, is it okay if the teacher assistant interrupts, etc.
+**Talk with your teacher assistant**   
+ Before class try and talk to your teacher assistant about how you want to work together. Should the teacher assistant fx. help teach some topics, is it okay if the teacher assistant interrupts, etc.
 
-**Homework status** <br>
-To get an overview of how the class is doing. Use the homework checker to make a bit of an overview of how the class is doing. With an overview you can teach more targeted towards clearing out misconceptions in the class.
+**Homework status**   
+ To get an overview of how the class is doing. Use the homework checker to make a bit of an overview of how the class is doing. With an overview you can teach more targeted towards clearing out misconceptions in the class.
 
-**Breaks** <br>
-We take a long break around 14:00, to have lunch. (About 20 minutes). Otherwise, make sure to remember to take short breaks about every 45 minutes as it is a lot to take in for students and concentration will understandably drop if we don't take breaks.
+**Breaks**   
+ We take a long break around 14:00, to have lunch. \(About 20 minutes\). Otherwise, make sure to remember to take short breaks about every 45 minutes as it is a lot to take in for students and concentration will understandably drop if we don't take breaks.
 
-**Don't forget about the fun** <br>
-If you have an idea about how to combine the teaching with some more fun exercises - do it. Our curriculum is challenging and sometimes dry (it has to be), but that doesn't mean we can't take some digressions to have some fun and get the energy levels in the class up. Mitigating 'code scare' or demystifying the world of programming can be super important, especially in the start. <p>
-A good resource for fun exercises is the [teaching_tips_and_tricks](https://github.com/HackYourFuture/teaching_tips_tricks) repo. It's a collaborative effort between all HYF chapters and PR's are more than welcome!
+**Don't forget about the fun**   
+ If you have an idea about how to combine the teaching with some more fun exercises - do it. Our curriculum is challenging and sometimes dry \(it has to be\), but that doesn't mean we can't take some digressions to have some fun and get the energy levels in the class up. Mitigating 'code scare' or demystifying the world of programming can be super important, especially in the start.  A good resource for fun exercises is the [teaching\_tips\_and\_tricks](https://github.com/HackYourFuture/teaching_tips_tricks) repo. It's a collaborative effort between all HYF chapters and PR's are more than welcome!
 
 ### Suggested Teaching Techniques
 
@@ -109,5 +108,6 @@ Peer instruction is an interactive teaching method in which students discuss und
 
 ### Useful Links
 
-- [The teacher curriculum](https://hyfbe.gitbook.io/teacher-curriculum)
-- [Super important video about active learning](https://www.youtube.com/watch?v=Z9orbxoRofI)
+* [The teacher curriculum](https://hyfbe.gitbook.io/teacher-curriculum)
+* [Super important video about active learning](https://www.youtube.com/watch?v=Z9orbxoRofI)
+

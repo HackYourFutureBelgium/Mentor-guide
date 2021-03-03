@@ -1,4 +1,4 @@
-# Role
+# Teaching Assistant
 
 The teacher assistants role it to help the main teacher get through the class as smooth as possible. That means primarily helping students when exercises are given. But it can also mean teaching some topics, coming with another perspective in class, keeping the main teacher focused on the learning goals.
 
@@ -22,7 +22,7 @@ Your responsibility is to help/assist the main teacher so they are not overloade
     <tr>
       <td style="text-align:left">
         <p>In our classrooms we often have a wide range of ability and so it is essential
-          that we mentor the students who are struggling so they don't fall
+          that we mentor the students who are struggling so they don&apos;t fall
           behind.</p>
         <p>Take the time not only to teach but also to motivate and connect with
           the student. Many of our students may never have met a programmer before
@@ -40,9 +40,9 @@ Your responsibility is to help/assist the main teacher so they are not overloade
       <td style="text-align:left">
         <p>As a teaching assistant you are uniquely placed to give active feedback
           to your lead teacher. Never be afraid to ask the teacher to explain again
-          if you think the students don't understand a topic or to offer extra
+          if you think the students don&apos;t understand a topic or to offer extra
           clarification. Wherever possible, feedback to the teacher on how the students
-          you're interacting with are doing.</p>
+          you&apos;re interacting with are doing.</p>
         <p>Additionally, we encourage feedback on the lesson itself. We try to foster
           a community of growth and education for everyone at HackYourFuture - not
           just our students.</p>
@@ -54,17 +54,17 @@ Your responsibility is to help/assist the main teacher so they are not overloade
 ### Classroom Rules
 
 1. ​Follow the [Code of Conduct](https://github.com/HackYourFuture-CPH/curriculum/blob/master/code-of-conduct.pdf)
-   - You should report any violations to the staff
+   * You should report any violations to the staff
 2. Don't touch the keyboard.
-   - Unless you're 100% certain that whatever your doing is outside of the students required understanding
+   * Unless you're 100% certain that whatever your doing is outside of the students required understanding
 3. Be empathetic.
-   - Our students come from many different cultures, have many different levels of English, have different levels of computer literacy, have many different employment statuses
+   * Our students come from many different cultures, have many different levels of English, have different levels of computer literacy, have many different employment statuses
 4. Don't demotivate.
-   - It can be easy to demotivate students using dismissive language \(e.g. "it’s easy, just do this"\)
+   * It can be easy to demotivate students using dismissive language \(e.g. "it’s easy, just do this"\)
 5. Be patient.
-   - Everything takes time and they will get there in the end
+   * Everything takes time and they will get there in the end
 6. Remember you are an expert.
-   - Be aware of your blind spots when working with beginners
+   * Be aware of your blind spots when working with beginners
 
 ### Tips
 
@@ -75,3 +75,4 @@ As an assistant teacher, your job is not to understand **what** the student does
 _Homework in mind_
 
 When mentoring a student you should always have the homework for the week in mind. You should be helping them to understand concepts well enough so that you can confidently say that they will be able to complete the homework to a sufficient level. If you don’t know the homework for the week, ask your Lead Teacher.
+
