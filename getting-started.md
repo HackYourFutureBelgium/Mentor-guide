@@ -8,7 +8,7 @@ We want our students to be able to work in a tech company in Denmark. Technical 
 
 ### Slack
 
-Our Slack workplace is the main communication tool we use. It has channels for every class, the main goal here is that we support students with questions/their homework during the week. You don't have to join all channels, but please join the one of the class that you are currently teaching or helping out with. If you are not invited to Slack yet: :arrow_right: :👨‍💻:
+Our Slack workplace is the main communication tool we use. It has channels for every class, the main goal here is that we support students with questions/their homework during the week. You don't have to join all channels, but please join the one of the class that you are currently teaching or helping out with. If you are not invited to Slack yet: :arrow_right: Ask our staff to add you 👨‍💻
 
 ### FAQ
 
@@ -29,28 +29,30 @@ Our Slack workplace is the main communication tool we use. It has channels for e
 
 ### So how is the curriculum structured?
 
-Here is an overview of the curriculum
+Here is an overview of the [curriculum](https://github.com/HackYourFuture-CPH/curriculum)
 
 ![Curriculum graphic + project](https://raw.githubusercontent.com/HackYourFuture-CPH/curriculum/master/curriculum_2020.png)
 
-As a mentor you book a specific module where you are responsible for the class in that time.
+As a mentor you can book a specific module where you are responsible for the class reaching the learning goals during that time.
 
 ### Modules
 
 - All modules have their own repository in our Github organization.
-- We also have a nice and shiny overview of our [curriculum](https://github.com/HackYourFuture-CPH/curriculum). Here you can find information about when/how and what we teach.
+- Check out the overview of our [curriculum](https://github.com/HackYourFuture-CPH/curriculum). Here you can find information about how and what we teach.
 - We divided everyone in our organization into teams, we have a teachers team, a team for every class etc. which all have different permissions.
 - We have a private repository where fellow teachers share their [teaching-tips-and-tricks](https://github.com/HackYourFuture/teaching_tips_tricks), if you are new to teaching or are just curious on what they think works well in class, take a look.
 - Please contribute and help improve the curriculum. Just make a Pull Request or write the curriculum responsible!
 
-### Workshops/master classes
+### Workshops/Master Classes
 
-Workshops / Masterclasses From time to time we organize workshops or alumni masterclasses in which we go into detail with a specific topic. We have organized masterclasses on .NET development, Web Bluetooth/Web USB, Web Content Management & CMS Systems, Docker and many more. If you have a suggestion for a topic, please let us know!
+From time to time we organize workshops or Master Classes for our alumni in which we go into detail with a specific topic. We have so far organized masterclasses on React Native, .NET development, Web Bluetooth/Web USB, Web Content Management & CMS Systems, Docker and many more. If you have a suggestion for a topic or want to build a lesson plan for a new Master Class or workshop, please let us know!
 
 ### Roles
 
-Now dependent on the role please check the role you will be:
+All new volunteers at HackYourFuture will start their Volunteering Journey as a **Homework Helper**. You then gradually move through the different volunteering roles which will give you the confidence and expertise to be a **Lead Teacher**.
 
-- [Lead teacher](roles/lead-teacher.md)
-- [Teacher assistant](roles/teaching-assistant.md)
-- [Homework helper](roles/homework-helper.md)
+- [Homework Helper](roles/homework-helper.md)
+- [Teacher Assistant](roles/teaching-assistant.md)
+- [Lead Teacher](roles/lead-teacher.md)
+
+![Volunteering Journey](./volunteering-journey.png)
