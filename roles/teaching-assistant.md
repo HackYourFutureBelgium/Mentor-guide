@@ -55,8 +55,8 @@ Your responsibility is to help/assist the main teacher so they are not overloade
 
 1. ​Follow the [Code of Conduct](https://github.com/HackYourFuture-CPH/curriculum/blob/master/code-of-conduct.pdf)
    * You should report any violations to the staff
-2. Don't touch the keyboard.
-   * Unless you're 100% certain that whatever your doing is outside of the students required understanding
+2. Don't touch the student's keyboard.
+   * Unless you're 100% certain that whatever you're doing is outside of the students required understanding
 3. Be empathetic.
    * Our students come from many different cultures, have many different levels of English, have different levels of computer literacy, have many different employment statuses
 4. Don't demotivate.
