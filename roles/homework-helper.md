@@ -37,7 +37,7 @@ Try to keep the review at maximum 3 points the students can work on. There is no
 
 ## Giving an overview of general misconceptions
 
-It can be *super helpful* for the Lead Teacher to get an overview of how the class is doing with the homework. So if you notice things that the class is collectively getting wrong - then make an overview of those misconceptions so they can be addressed in the next session.
+It can be _super helpful_ for the Lead Teacher to get an overview of how the class is doing with the homework. So if you notice things that the class is collectively getting wrong - then make an overview of those misconceptions so they can be addressed in the next session.
 
 Here is an **example** of a Homework Helper's overview of the class:
 
@@ -63,7 +63,7 @@ After following class14 homework for Javascript 1 - Week 2 here are some notes:
 
   -There was no clear understanding of how to use codepen to test the code. \(edited\)
 
-
 ## Anything else?
 
-If we left any questions unanswered - reach out to one of our staff on Slack :) 
+If we left any questions unanswered - reach out to one of our staff on Slack :\)
+

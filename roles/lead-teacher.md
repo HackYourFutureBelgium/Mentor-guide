@@ -61,7 +61,7 @@ The class can be run in two different ways:
 
 It's up to you what approach you want to use. But we would like to encourage using flipped classroom, as most students report prefering this way of learning.
 
-The same goes for **experiential learning** \(hands-on work\) and **peer-assisted learning** \(students helping one another\). This has also shown to work well for our students. In practice this means that we try to use *as few powerpoint slides as possible* \(ideally none\) and focus on Live coding examples, group exercises and anything else that keeps people's hands on their keyboards and makes them apply their skills and practice them.
+The same goes for **experiential learning** \(hands-on work\) and **peer-assisted learning** \(students helping one another\). This has also shown to work well for our students. In practice this means that we try to use _as few powerpoint slides as possible_ \(ideally none\) and focus on Live coding examples, group exercises and anything else that keeps people's hands on their keyboards and makes them apply their skills and practice them.
 
 ## Practicalities
 
@@ -77,26 +77,26 @@ Here are some things we learned from having all classes online:
 * When you do exercises, make small groups of 3 people in breakout rooms
 * In BBB you can raise your hand. Use that to figure out if people are following or if people have questions
 
-**Recording of sessions.**   
- In BigBlueButton remember to record the session and post the recorded video on the class' Slack channel.
+**Recording of sessions.**  
+In BigBlueButton remember to record the session and post the recorded video on the class' Slack channel.
 
-**Talk with your teacher assistant**   
- Before class try and talk to your teacher assistant about how you want to work together. Should the teacher assistant fx. help teach some topics, is it okay if the teacher assistant interrupts, etc.
+**Talk with your teacher assistant**  
+Before class try and talk to your teacher assistant about how you want to work together. Should the teacher assistant fx. help teach some topics, is it okay if the teacher assistant interrupts, etc.
 
-**Homework status**   
- Get an overview of how the class is doing. Use the [Homework Checker tool](https://hyf-homework-assesment.herokuapp.com/) to get a bit of an overview of how the class is doing, or scroll through the class' Slack channel. With an overview you can teach more targeted towards clearing out misconceptions in the class.
+**Homework status**  
+Get an overview of how the class is doing. Use the [Homework Checker tool](https://hyf-homework-assesment.herokuapp.com/) to get a bit of an overview of how the class is doing, or scroll through the class' Slack channel. With an overview you can teach more targeted towards clearing out misconceptions in the class.
 
-**Breaks**   
- We take a long break around 14:00, to have lunch. \(About 20 minutes\). Otherwise, make sure to remember to take **short breaks about every 45 minutes** as it is a lot to take in for students and concentration will understandably drop if we don't take breaks.
+**Breaks**  
+We take a long break around 14:00, to have lunch. \(About 20 minutes\). Otherwise, make sure to remember to take **short breaks about every 45 minutes** as it is a lot to take in for students and concentration will understandably drop if we don't take breaks.
 
-**Don't forget about the fun**   
- If you have an idea about how to combine the teaching with some more fun exercises - do it. Our curriculum is challenging and sometimes dry \(it has to be\), but that doesn't mean we can't take some digressions to have some fun and get the energy levels in the class up. Mitigating 'code scare' or demystifying the world of programming can be super important, especially in the start.  A good resource for fun exercises is the [teaching\_tips\_and\_tricks](https://github.com/HackYourFuture/teaching_tips_tricks) repo. It's a collaborative effort between all HYF chapters and Pull Requests are more than welcome!
+**Don't forget about the fun**  
+If you have an idea about how to combine the teaching with some more fun exercises - do it. Our curriculum is challenging and sometimes dry \(it has to be\), but that doesn't mean we can't take some digressions to have some fun and get the energy levels in the class up. Mitigating 'code scare' or demystifying the world of programming can be super important, especially in the start. A good resource for fun exercises is the [teaching\_tips\_and\_tricks](https://github.com/HackYourFuture/teaching_tips_tricks) repo. It's a collaborative effort between all HYF chapters and Pull Requests are more than welcome!
 
 ### Suggested Teaching Techniques
 
 **Live Coding**
 
-As a class you should work through a programming problem together. Ideally you should be the ‘hands’ :hand: and the students should be the ‘brain’ :brain:. They should direct every keystroke of the solution. This is a great way of de-mystifying the coding process and slowly taking students through a concept or problem. The speed of your typing will limit the speed that you can deliver content and so is an ideal tool for pacing the lesson.
+As a class you should work through a programming problem together. Ideally you should be the ‘hands’ 👐 and the students should be the ‘brain’ 🧠 . They should direct every keystroke of the solution. This is a great way of de-mystifying the coding process and slowly taking students through a concept or problem. The speed of your typing will limit the speed that you can deliver content and so is an ideal tool for pacing the lesson.
 
 **Worked Example**
 
