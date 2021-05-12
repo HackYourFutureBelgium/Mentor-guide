@@ -4,7 +4,7 @@ All our students hand in homework every week by using pull requests on GitHub. I
 
 ## Responsibility
 
-As a Homework Helper it is your responsibility to review homework. It is also your responsibility that all the homework gets reviewed! It is not you that has to do all the reviewing, but you have the responsibility to make sure all submitted homeworks get a review. Normally the Homework Helper gets help from the Teacher Assistant and sometimes also the Main Teacher. If you need additional hands - some of our alumni can help out too.
+As a Homework Mentor it is your responsibility to review homework. It is also your responsibility that all the homework gets reviewed! It is not you that has to do all the reviewing, but you have the responsibility to make sure all submitted homeworks get a review. Normally the Homework Mentor gets help from the Teacher Assistant and sometimes also the Main Teacher. If you need additional hands - some of our alumni can help out too.
 
 ## How students hand in homework
 
@@ -39,7 +39,7 @@ Try to keep the review at maximum 3 points the students can work on. There is no
 
 It can be _super helpful_ for the Lead Teacher to get an overview of how the class is doing with the homework. So if you notice things that the class is collectively getting wrong - then make an overview of those misconceptions so they can be addressed in the next session.
 
-Here is an **example** of a Homework Helper's overview of the class:
+Here is an **example** of a Homework Mentor's overview of the class:
 
 After following class14 homework for Javascript 1 - Week 2 here are some notes:
 
