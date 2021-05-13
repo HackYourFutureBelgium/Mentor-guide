@@ -1,10 +1,10 @@
 # Homework Mentor
 
-All our students hand in homework every week by using pull requests on GitHub. In order for the students to improve as much as possible we aim to review every pull request thoroughly. This review process imitates the real world and can really help the students to improve their skills significantly.
+All our students hand in homework every week by using pull requests on GitHub. In order for the students to improve as much as possible **we aim to review every pull request thoroughly**. This review process imitates the real world and can really help the students to improve their skills significantly. 🤓
 
 ## Responsibility
 
-As a Homework Mentor it is your responsibility to review homework. It is also your responsibility that all the homework gets reviewed! It is not you that has to do all the reviewing, but you have the responsibility to make sure all submitted homeworks get a review. Normally the Homework Mentor gets help from the Teacher Assistant and sometimes also the Main Teacher. If you need additional hands - some of our alumni can help out too.
+As a Homework Mentor it is your responsibility to review homework. It is also your responsibility that all the homework submissions get reviewed by someone! It is not you that has to do all the reviewing, but you have the responsibility to make sure all submitted homeworks get a review. Normally the Homework Mentor\(s\) get help from the Teacher Assistant and sometimes also the Main Teacher. If you need additional hands - some of our alumni can help out too.
 
 ## How students hand in homework
 
@@ -19,11 +19,11 @@ There is a [video here](https://www.youtube.com/watch?v=XYlgh9hSWtw) that explai
 
 ## How to find the right homework PR's
 
-To keep track of the homeworks and their status \(mentioned above\) we have made a tool that makes this process easier: [https://hyf-homework-assesment.herokuapp.com/](https://hyf-homework-assesment.herokuapp.com/)
+To keep track of the homework PR's and their status \(mentioned above\) we have made a tool that makes this process easier: [https://hyf-homework-assesment.herokuapp.com/](https://hyf-homework-assesment.herokuapp.com/)
 
-Here you can select the class number you are responsible for \(fx class 17\), then choose the module \(fx nodejs\) and then the status \(needs mentor feedback is the one you will be using\). Then you have an overview of all the students that still need feedback for a specific module. Then you can just go to their PR and give feedback there. The website updates the student homework status by itself. In the bottom of the website there is a description for the different statuses.
+Here you can select the class number you are responsible for \(**fx class 17**\), then choose the module \(**fx nodejs**\) and then the status \(**needs mentor feedback** is the one you will be using\). Then you have an overview of all the students that still need feedback for a specific module. Then you can just go to their PR and give feedback there. The website updates the student homework status by itself. In the bottom of the website there is a description for the different statuses.
 
-Every week our staff also tends to post an overview of all hoemwork PR's that need reviewing in the respective Slack channel for mentors in the class \(fx mentors-class17\). Use this space to communicate with the rest of the teacher team and staff about anything that might be unclear.
+Every week our staff also tends to post an overview of all homework PR's that need reviewing in the respective Slack channel for mentors in the class \(fx mentors-class17\). Use this space to communicate with the rest of the teacher team and staff about anything that might be unclear.
 
 ## Communication with HYF or Lead Teacher
 
