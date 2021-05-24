@@ -1,6 +1,6 @@
 # Getting started
 
-First please fill in your preferences for teaching \(in the Preferences and Skills tab\) **here**
+First please fill in your preferences for teaching \(in the Preferences and Skills tab\) [**here**](https://forms.gle/cefozDVktRJ5nAzGA)**.**
 
 ## Most crucial learning goals
 
