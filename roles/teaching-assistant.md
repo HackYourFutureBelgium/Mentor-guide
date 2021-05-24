@@ -1,14 +1,14 @@
 # Teaching Assistant
 
-The teacher assistants role it to help the main teacher get through the class as smooth as possible. That means primarily helping students when exercises are given. But it can also mean teaching some topics, coming with another perspective in class, keeping the main teacher focused on the learning goals.
+The Teacher Assistant's role is to help the [**Lead Teacher**](https://mentor.hackyourfuture.dk/roles/lead-teacher) get through the class as smooth as possible. That means primarily helping students when exercises are given. But it can also mean teaching some topics, coming with another perspective in class, keeping the main teacher focused on the learning goals.
 
 Another important part is helping with reviewing homework.
 
-Remember to talk to the main teacher about how you should be assisting the class. Should you fx. help teach some topics, is it okay if the you interrupt the main teacher, etc.
+Remember to talk to the Lead Teacher about how you should be assisting the class. Should you fx. help teach some topics, is it okay if you interrupt the Lead Teacher, etc.
 
 ## Responsibility
 
-Your responsibility is to help/assist the main teacher so they are not overloaded with work.
+Your responsibility is to help/assist the Lead Teacher so they are not overloaded with work.
 
 <table>
   <thead>
@@ -27,7 +27,7 @@ Your responsibility is to help/assist the main teacher so they are not overloade
         <p>Take the time not only to teach but also to motivate and connect with
           the student. Many of our students may never have met a programmer before
           and this can be a great opportunity for them to ask questions about your
-          background and day to day life.</p>
+          background and day-to-day life.</p>
       </td>
       <td style="text-align:left">
         <p>When interacting with students, try to gauge how they are doing in the
@@ -53,14 +53,14 @@ Your responsibility is to help/assist the main teacher so they are not overloade
 
 ### Classroom Rules
 
-1. ​Follow the [Code of Conduct](https://github.com/HackYourFuture-CPH/curriculum/blob/master/code-of-conduct.pdf)
+1. ​Follow the [**Code of Conduct**](https://github.com/HackYourFuture-CPH/curriculum/blob/master/code-of-conduct.pdf)\*\*\*\*
    * You should report any violations to the staff
 2. Don't touch the student's keyboard.
    * Unless you're 100% certain that whatever you're doing is outside of the students required understanding
 3. Be empathetic.
    * Our students come from many different cultures, have many different levels of English, have different levels of computer literacy, have many different employment statuses
 4. Don't demotivate.
-   * It can be easy to demotivate students using dismissive language \(e.g. "it’s easy, just do this"\)
+   * It can be easy to demotivate students using dismissive language \(e.g. "c'mon", "it’s easy, just do this"\)
 5. Be patient.
    * Everything takes time and they will get there in the end
 6. Remember you are an expert.
@@ -74,5 +74,5 @@ As an assistant teacher, your job is not to understand **what** the student does
 
 _Homework in mind_
 
-When mentoring a student you should always have the homework for the week in mind. You should be helping them to understand concepts well enough so that you can confidently say that they will be able to complete the homework to a sufficient level. If you don’t know the homework for the week, ask your Lead Teacher.
+When mentoring a student you should always have the homework for the week in mind. You should be helping them to understand concepts well enough so that you can confidently say that they will be able to complete the homework to a sufficient level. If you don’t know the homework for the week, ask your [**Lead Teacher.**](https://mentor.hackyourfuture.dk/roles/lead-teacher)\*\*\*\*
 

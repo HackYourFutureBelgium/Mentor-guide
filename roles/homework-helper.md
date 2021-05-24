@@ -10,16 +10,16 @@ As a Homework Mentor it is your responsibility to review homework. It is also yo
 
 The students receive homework every Sunday and hand in homework using pull requests during the week. The process goes like this:
 
-1. The students create a pull request \(PR\) on their `hyf-homework` repo, fx [https://github.com/panivita/hyf-homework](https://github.com/panivita/hyf-homework)
+1. The students create a pull request \(PR\) on their `hyf-homework` repo, fx [**https://github.com/panivita/hyf-homework**](https://github.com/panivita/hyf-homework)\*\*\*\*
 2. The PR now needs to be reviewed by a mentor. We always aim to get this done within 7 days of submission
 3. When the review has been received the students need to make changes based on the feedback
 4. When changes have been made they can merge their PR and they are now fully done with their homework
 
-There is a [video here](https://www.youtube.com/watch?v=XYlgh9hSWtw) that explains and shows how it works. There is an extra step which is that the students also need to review another class members homework \(peer feedback\).
+There is a [**video here**](https://www.youtube.com/watch?v=XYlgh9hSWtw) ****that explains and shows how it works. There is an extra step which is that the students also need to review another class members homework \(peer feedback\).
 
 ## How to find the right homework PR's
 
-To keep track of the homework PR's and their status \(mentioned above\) we have made a tool that makes this process easier: [https://hyf-homework-assesment.herokuapp.com/](https://hyf-homework-assesment.herokuapp.com/)
+To keep track of the homework PR's and their status \(mentioned above\) we have made a tool that makes this process easier: [**https://hyf-homework-assesment.herokuapp.com/**](https://hyf-homework-assesment.herokuapp.com/)\*\*\*\*
 
 Here you can select the class number you are responsible for \(**fx class 17**\), then choose the module \(**fx nodejs**\) and then the status \(**needs mentor feedback** is the one you will be using\). Then you have an overview of all the students that still need feedback for a specific module. Then you can just go to their PR and give feedback there. The website updates the student homework status by itself. In the bottom of the website there is a description for the different statuses.
 
@@ -31,17 +31,21 @@ It's quite important that you communicate with your teacher team and the staff. 
 
 ## Giving feedback
 
-Give the review on the PR. You can see how to give feedback on a PR using github [here](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/commenting-on-a-pull-request). [Here is an example](https://github.com/sofiiadidovych/hyf-homework/pull/9) of some review given by mentor RassiBassi \(Rasmus\)
+Give the review on the PR. You can see how to give feedback on a PR using github [**here**](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/commenting-on-a-pull-request). 
 
-Try to keep the review at maximum 3 points the students can work on. There is no need to overdo it! Remember that you are responsible for up to 16 homeworks this week. Therefore try and manage your available time with the homeworks.
+[**Here is an example**](https://github.com/sofiiadidovych/hyf-homework/pull/9) of some review given by mentor RassiBassi \(Rasmus\)
+
+![](../.gitbook/assets/screenshot-2021-05-24-at-16.11.30.png)
+
+Try to keep the review at maximum 3 points the students can work on. There is no need to overdo it! Remember that you are responsible for up to 16 homeworks this week. Therefore try and coordinate with your teacher-team and manage your available time with the homeworks.
 
 ## Giving an overview of general misconceptions
 
-It can be _super helpful_ for the Lead Teacher to get an overview of how the class is doing with the homework. So if you notice things that the class is collectively getting wrong - then make an overview of those misconceptions so they can be addressed in the next session.
+It can be _super helpful_ for the [**Lead Teacher**](https://mentor.hackyourfuture.dk/roles/lead-teacher) to get an overview of how the class is doing with the homework. So if you notice things that the class is collectively getting wrong - then make an overview of those misconceptions so they can be addressed in the next session.
 
 Here is an **example** of a Homework Mentor's overview of the class:
 
-After following class14 homework for Javascript 1 - Week 2 here are some notes:
+After following `class14` homework for `Javascript 1 - Week 2` here are some notes:
 
 * Many students have a problem with understanding return at functions.
 * The most difficult question for them was the fourth student manager
@@ -65,5 +69,5 @@ After following class14 homework for Javascript 1 - Week 2 here are some notes:
 
 ## Anything else?
 
-If we left any questions unanswered - reach out to one of our staff on Slack :\)
+If we left any questions unanswered - reach out to one of our staff on Slack 🤓 
 

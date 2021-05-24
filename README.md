@@ -27,5 +27,5 @@ You can find all infos you'll need to become a great HackYourFuture mentor in it
 * We are like a family 🧡. Our format is based on a grassroots community with volunteer coaches and mentors.
 * We advocate for diversity 🧕. We strongly encourage women to participate. Over 50% of our students are women.
 
-Built upon CodeYourFuture's fantastic [teacher guide](https://teachertraining.codeyourfuture.io/)
+Built upon CodeYourFuture's fantastic [**teacher guide**](https://teachertraining.codeyourfuture.io/)\*\*\*\*
 

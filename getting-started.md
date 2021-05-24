@@ -1,6 +1,6 @@
 # Getting started
 
-First please fill in your preferences for teaching \(in the Preferences and Skills tab\) [here](https://docs.google.com/spreadsheets/d/1bvagz2DZkV44Hb5a0eATC7tip34o_F496FKVzzmjQGU/edit?usp=sharing)
+First please fill in your preferences for teaching \(in the Preferences and Skills tab\) **here**
 
 ## Most crucial learning goals
 
@@ -20,7 +20,7 @@ Our Slack workplace is the main communication tool we use. It has channels for e
 
 ## So how is the curriculum structured?
 
-Here is an overview of the [curriculum](https://github.com/HackYourFuture-CPH/curriculum)
+Here is an overview of the [**curriculum**](https://github.com/HackYourFuture-CPH/curriculum)\*\*\*\*
 
 ![Curriculum graphic + project](https://raw.githubusercontent.com/HackYourFuture-CPH/curriculum/master/curriculum_2020.png)
 
@@ -29,9 +29,9 @@ As a mentor you can book a specific module where you are responsible for the cla
 ## Modules
 
 * All modules have their own repository in our Github organization.
-* Check out the overview of our [curriculum](https://github.com/HackYourFuture-CPH/curriculum). Here you can find information about how and what we teach.
+* Check out the overview of our [**curriculum**](https://github.com/HackYourFuture-CPH/curriculum). Here you can find information about how and what we teach.
 * We divided everyone in our organization into teams, we have a teachers team, a team for every class etc. which all have different permissions.
-* We have a private repository where fellow teachers share their [teaching-tips-and-tricks](https://github.com/HackYourFuture/teaching_tips_tricks), if you are new to teaching or are just curious on what they think works well in class, take a look.
+* We have a private repository where fellow teachers share their [**teaching-tips-and-tricks**](https://github.com/HackYourFuture/teaching_tips_tricks), if you are new to teaching or are just curious on what they think works well in class, take a look.
 * Please contribute and help improve the curriculum. Just make a Pull Request or write the curriculum responsible!
 
 ## Workshops/Master Classes
@@ -42,9 +42,9 @@ From time to time we organize workshops or Master Classes for our alumni in whic
 
 All new volunteers at HackYourFuture will start their Volunteering Journey as a **Homework Helper**. You then gradually move through the different volunteering roles which will give you the confidence and expertise to be a **Lead Teacher**.
 
-* [Homework Helper](roles/homework-helper.md)
-* [Teacher Assistant](roles/teaching-assistant.md)
-* [Lead Teacher](roles/lead-teacher.md)
+* [**Homework Helper**](roles/homework-helper.md)\*\*\*\*
+* \*\*\*\*[**Teacher Assistant**](roles/teaching-assistant.md)\*\*\*\*
+* \*\*\*\*[**Lead Teacher**](roles/lead-teacher.md)\*\*\*\*
 
 ![Volunteering Journey](.gitbook/assets/volunteering-journey.png)
 
