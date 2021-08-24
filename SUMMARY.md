@@ -9,3 +9,7 @@
 * [Teaching Assistant](roles/teaching-assistant.md)
 * [Homework Mentor](roles/homework-helper.md)
 
+## Practicalities
+
+* [Location](practicalities/location.md)
+
