@@ -1,8 +1,8 @@
 ---
-description: Where to find us :)
+description: Where to find us in Copenhagen :)
 ---
 
-# Location
+# Location: Copenhagen
 
 We host our onsite classes on **Sundays** between **12:00 - 16:00** at a co-working space in Vesterbro called [DISIE](https://disie.dk). The address is **Enghavevej 80c, 3. & 4. floor**. It's easiest to enter the building via the courtyard as described on the images below:
 

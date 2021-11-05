@@ -11,5 +11,5 @@
 
 ## Practicalities
 
-* [Location](practicalities/location.md)
-
+* [Location: Copenhagen](practicalities/location.md)
+* [Location: Aarhus](practicalities/location-aarhus.md)
