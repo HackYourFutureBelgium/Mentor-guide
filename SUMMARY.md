@@ -5,9 +5,9 @@
 
 ## Roles
 
-* [Lead Teacher](roles/lead-teacher.md)
-* [Teaching Assistant](roles/teaching-assistant.md)
 * [Homework Mentor](roles/homework-helper.md)
+* [Teaching Assistant](roles/teaching-assistant.md)
+* [Lead Teacher](roles/lead-teacher.md)
 
 ## Practicalities
 

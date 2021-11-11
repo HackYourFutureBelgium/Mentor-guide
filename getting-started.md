@@ -1,6 +1,6 @@
 # Getting started
 
-First, please fill in your preferences [**here**](https://forms.gle/cefozDVktRJ5nAzGA) to indicate what skills you feel confident to share**. **:brain::raised_hands: 
+First, please fill in your preferences [**here**](https://forms.gle/cefozDVktRJ5nAzGA) to indicate what skills you feel confident to share**. **:brain::raised\_hands:&#x20;
 
 ## Most crucial learning goals
 
@@ -13,7 +13,7 @@ Our Slack workplace is the main communication tool we use. It has channels for e
 ## FAQ
 
 * Q: **How much time does teaching require per week?**\
-  A: It depends on the role. But aim at about 5-6 hours a week.
+  A: It depends on the role. But aim at about 6-8 hours per week.
 * Q: **Do I need to be a working professional to teach?**\
   A: No, you don't need to be a working professional, but it is a big plus. We want our students to learn from people who work with the frameworks we teach on a daily basis and know the challenges of the market.
 * Q: **Will I be teaching all by myself?**\
@@ -29,19 +29,19 @@ Here is an overview of the [**curriculum**](https://github.com/HackYourFuture-CP
 
 ![Curriculum graphic + project](https://raw.githubusercontent.com/HackYourFuture-CPH/curriculum/master/curriculum\_2020.png)
 
-As a mentor you can book a specific module where you are responsible for the class reaching the learning goals during that time.
+As a mentor you can book a specific module where you are responsible for the class reaching the learning goals during that time. Ask the staff for the schedule and be proactive about saying what modules you would like to teach.
 
 ## Modules
 
 * All modules have their own repository in our Github organization.
 * Check out the overview of our [**curriculum**](https://github.com/HackYourFuture-CPH/curriculum). Here you can find information about how and what we teach.
 * We divided everyone in our organization into teams, we have a teachers team, a team for every class etc. which all have different permissions.
-* We have a private repository where fellow teachers share their [**teaching-tips-and-tricks**](https://github.com/HackYourFuture/teaching_tips_tricks), if you are new to teaching or are just curious on what they think works well in class, take a look.
+* We have a private repository where fellow teachers share their [**teaching-tips-and-tricks**](https://github.com/HackYourFuture/teaching\_tips\_tricks), if you are new to teaching or are just curious on what they think works well in class, take a look.
 * Please contribute and help improve the curriculum. Just make a Pull Request or write the curriculum responsible!
 
 ## Workshops/Master Classes
 
-From time to time we organize workshops or Master Classes for our alumni in which we go into detail with a specific topic. We have so far organized masterclasses on TypeScript, React Native, Serverless, .NET development, Web Bluetooth/Web USB, Web Content Management & CMS Systems, Docker and many more. If you have a suggestion for a topic or want to build a lesson plan for a new Master Class or workshop, please let us know!
+From time to time we organize workshops or Master Classes for our alumni in which we go into detail with a specific topic. We have so far organized masterclasses on TypeScript, React Native, Serverless, .NET development, Web Bluetooth/Web USB, Web Content Management & CMS Systems, Docker and many more. If you have a suggestion for a topic or want to build a lesson plan for a new Master Class or workshop, please let us know! You can think along the lines of this [Masterclass template](https://github.com/HackYourFuture-CPH/masterclass-template).&#x20;
 
 ## Roles
 
