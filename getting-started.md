@@ -27,7 +27,7 @@ Our Slack workplace is the main communication tool we use. It has channels for e
 
 Here is an overview of the [**curriculum**](https://github.com/HackYourFuture-CPH/curriculum)****
 
-![Curriculum graphic + project](https://raw.githubusercontent.com/HackYourFuture-CPH/curriculum/master/curriculum\_2020.png)
+![Curriculum graphic + project](https://raw.githubusercontent.com/HackYourFuture-CPH/curriculum/main/curriculum\_2020.png)
 
 As a mentor you can book a specific module where you are responsible for the class reaching the learning goals during that time. Ask the staff for the schedule and be proactive about saying what modules you would like to teach.
 

@@ -16,7 +16,7 @@ Your responsibility is to help/assist the Lead Teacher so they are not overloade
 
 ### Classroom Rules
 
-1. ​Follow the [**Code of Conduct**](https://github.com/HackYourFuture-CPH/curriculum/blob/master/code-of-conduct.pdf)****
+1. ​Follow the [**Code of Conduct**](https://github.com/HackYourFuture-CPH/curriculum/blob/main/code-of-conduct.pdf)****
    * You should report any violations to the staff
 2. Don't touch the student's keyboard.
    * Unless you're 100% certain that whatever you're doing is outside of the students required understanding
