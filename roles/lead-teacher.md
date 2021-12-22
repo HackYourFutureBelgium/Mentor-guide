@@ -20,7 +20,7 @@ Your responsibility as a Lead Teacher is to teach the learning goals for each we
 
 At HackYourFuture we give our teachers lots of freedom to teach the way they want to. The only thing you need to do is teach the **learning goals** for each week. That is because the homework is based on these learning goals and we don't want our students to struggle too much with doing homework.
 
-The way you teach the class is up to you. There is a [**lesson plan**](https://github.com/HackYourFuture-CPH/JavaScript/blob/master/javascript2/week2/lesson-plan.md) for each module, but it's up to you if you want to use it.
+The way you teach the class is up to you. There is a [**lesson plan**](https://github.com/HackYourFuture-CPH/JavaScript/blob/main/javascript2/week2/lesson-plan.md) for each module, but it's up to you if you want to use it.
 
 ## Running the class
 
