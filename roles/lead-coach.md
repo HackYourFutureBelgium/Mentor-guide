@@ -26,7 +26,7 @@ The way you teach the class is up to you. There is a [**lesson plan**](https://g
 
 The class can be run in two different ways:
 
-1. **Flipped classroom**. Here the students watch the class teachings before class. That means that the class can be used for clearing up things, questions, exercises and homework. This approach is about maximizing active learning which has [**been found to increase student learning**](https://news.harvard.edu/gazette/story/2019/09/study-shows-that-students-learn-more-when-taking-part-in-classrooms-that-employ-active-learning-strategies/)****
+1. **Flipped classroom**. Here the students watch the class teachings before class. That means that the class can be used for clearing up things, questions, exercises and homework. This approach is about maximizing active learning which has [**been found to increase student learning**](https://news.harvard.edu/gazette/story/2019/09/study-shows-that-students-learn-more-when-taking-part-in-classrooms-that-employ-active-learning-strategies/).
 2. **Normal approach**. The students come to class and are taught the topics of the week. When the teaching is over the students have time for exercises.
 
 It's up to you what approach you want to use. But we would like to encourage using flipped classroom, as most students report prefering this way of learning.
@@ -42,7 +42,7 @@ Before each module, we make a preparation call with all assistant coaches (about
 We take a long break around 14:00, to have lunch. (About 30 minutes). Otherwise, make sure to remember to take **short breaks about every 45 minutes** as it is a lot to take in for students and concentration will understandably drop if we don't take breaks.
 
 **Don't forget about the fun**\
-If you have an idea about how to combine the teaching with some more fun exercises - do it. Our curriculum is challenging and sometimes dry (it has to be), but that doesn't mean we can't take some digressions to have some fun and get the energy levels in the class up. Mitigating 'code scare' or demystifying the world of programming can be super important, especially in the start. A good resource for fun exercises is the [**teaching_tips_and_tricks**](https://github.com/HackYourFuture/teaching_tips_tricks) repo. It's a collaborative effort between all HYF chapters and Pull Requests are more than welcome!
+If you have an idea about how to combine the teaching with some more fun exercises - do it. Our curriculum is challenging and sometimes dry (it has to be), but that doesn't mean we can't take some digressions to have some fun and get the energy levels in the class up. Mitigating 'code scare' or demystifying the world of programming can be super important, especially in the start. A good resource for fun exercises is the [**teaching_tips_and_tricks**](https://github.com/HackYourFuture/teaching_tips_tricks) repo. 
 
 ### Suggested Teaching Techniques
 

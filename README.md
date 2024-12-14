@@ -27,4 +27,4 @@ You can find all infos you'll need to become a great HackYourFuture coach in it!
 * We are like a family 🧡. Our format is based on a grassroots community with volunteer coaches and mentors.
 * We advocate for diversity 🧕. We strongly encourage women to participate. Over 50% of our students are women.
 
-Built upon HackYourFuture Copenhagen's incredible [**mentor guide**] (https://mentor.hackyourfuture.dk/master/getting-started) and CodeYourFuture's fantastic [**teacher guide**](https://teachertraining.codeyourfuture.io)****
+Built upon HackYourFuture Copenhagen's incredible [**mentor guide**](https://mentor.hackyourfuture.dk/master/getting-started) and CodeYourFuture's fantastic [**teacher guide**](https://teachertraining.codeyourfuture.io)

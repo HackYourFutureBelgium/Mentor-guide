@@ -41,7 +41,7 @@ From time to time we organize workshops for our students and alumni in which we 
 
 All new volunteers at HackYourFuture will start their Volunteering Journey as a **Assignment reviewer**. You then gradually move through the different volunteering roles which will give you the confidence and expertise to be a **Lead Coach**.
 
-* [**Assignment reviewer**](roles/assignment-reviewer.md)****
+* [**Assignment reviewer**](roles/assignment-reviewer.md)
 * ****[**Assistant Coach**](roles/assistant-coach.md)****
 * ****[**Lead Coach**](roles/lead-coach.md)****
 
