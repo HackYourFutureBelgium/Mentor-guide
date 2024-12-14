@@ -1,4 +1,4 @@
-# Mentor's guide
+# Coach's guide
 
 ![Classroom at HackYourFuture in Belgium](.gitbook/assets/mentor-guide-banner.png)
 
